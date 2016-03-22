@@ -7940,6 +7940,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@rails/gems/debase-0.2.0/lib" />
       </SOURCES>
     </library>
+    <library name="debase (v0.2.1, RVM: ruby-2.3.0 [rails5beta2]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@rails5beta2/gems/debase-0.2.1/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@rails5beta2/gems/debase-0.2.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@rails5beta2/gems/debase-0.2.1/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@rails5beta2/gems/debase-0.2.1/lib" />
+      </SOURCES>
+    </library>
     <library name="debase (v0.2.2.beta1, RVM: ruby-2.0.0-p353 [testapp]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.0.0-p353@testapp/gems/debase-0.2.2.beta1/ext" />
@@ -8040,6 +8050,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@untitled35/gems/debase-0.2.2.beta6/lib" />
       </SOURCES>
     </library>
+    <library name="debase (v0.2.2.beta7, RVM: ruby-2.3.0 [rails5beta2]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@rails5beta2/gems/debase-0.2.2.beta7/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@rails5beta2/gems/debase-0.2.2.beta7/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@rails5beta2/gems/debase-0.2.2.beta7/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@rails5beta2/gems/debase-0.2.2.beta7/lib" />
+      </SOURCES>
+    </library>
     <library name="debase-ruby_core_source (v0.4.0, RVM: ruby-2.0.0-p353 [testapp]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.0.0-p353@testapp/gems/debase-ruby_core_source-0.4.0/lib" />
@@ -8102,6 +8122,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@rails5/gems/debase-ruby_core_source-0.8.4/lib" />
+      </SOURCES>
+    </library>
+    <library name="debase-ruby_core_source (v0.8.4, RVM: ruby-2.3.0 [rails5beta2]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@rails5beta2/gems/debase-ruby_core_source-0.8.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@rails5beta2/gems/debase-ruby_core_source-0.8.4/lib" />
       </SOURCES>
     </library>
     <library name="debase-ruby_core_source (v0.8.4, RVM: ruby-2.3.0 [untitled35]) [gem]">
@@ -26206,6 +26234,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@untitled35/gems/ruby-debug-ide-0.6.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@untitled35/gems/ruby-debug-ide-0.6.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@untitled35/gems/ruby-debug-ide-0.6.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="ruby-debug-ide (v0.6.1.beta2, RVM: ruby-2.3.0 [rails5beta2]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@rails5beta2/gems/ruby-debug-ide-0.6.1.beta2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@rails5beta2/gems/ruby-debug-ide-0.6.1.beta2/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@rails5beta2/gems/ruby-debug-ide-0.6.1.beta2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@rails5beta2/gems/ruby-debug-ide-0.6.1.beta2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@rails5beta2/gems/ruby-debug-ide-0.6.1.beta2/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@rails5beta2/gems/ruby-debug-ide-0.6.1.beta2/lib" />
       </SOURCES>
     </library>
     <library name="ruby-hmac (v0.4.0, rbenv: 1.9.3-p0) [gem]">
