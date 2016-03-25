@@ -1,0 +1,11 @@
+<keymap version="1" name="Mac OS X 10.5+ custom" parent="Mac OS X 10.5+">
+  <action id="EditorKillRingSave">
+    <keyboard-shortcut first-keystroke="alt y" />
+  </action>
+  <action id="EditorKillToWordEnd">
+    <keyboard-shortcut first-keystroke="alt v" />
+  </action>
+  <action id="EditorKillToWordStart">
+    <keyboard-shortcut first-keystroke="alt w" />
+  </action>
+</keymap>
